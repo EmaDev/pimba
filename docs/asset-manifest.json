@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pimba/static/css/main.cc7b185d.css",
+    "main.js": "/pimba/static/js/main.2883e317.js",
+    "static/media/combo.png": "/pimba/static/media/combo.edb22f94c0be6b3a2b5c.png",
+    "static/media/smir.png": "/pimba/static/media/smir.9d494cf13a96534397be.png",
+    "static/media/bronca.png": "/pimba/static/media/bronca.25e366209a87c4d35462.png",
+    "static/media/gancia.png": "/pimba/static/media/gancia.1cc833b337c00bdf9708.png",
+    "static/media/chandon.png": "/pimba/static/media/chandon.c5527cc63becc2ee0799.png",
+    "static/media/logo.png": "/pimba/static/media/logo.718a9aec18802de0724f.png",
+    "index.html": "/pimba/index.html",
+    "main.cc7b185d.css.map": "/pimba/static/css/main.cc7b185d.css.map",
+    "main.2883e317.js.map": "/pimba/static/js/main.2883e317.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc7b185d.css",
+    "static/js/main.2883e317.js"
+  ]
+}
